@@ -18,6 +18,13 @@ Sistema web para el monitoreo nutricional de la Microred San Vicente.
 
 ## 🎯 Objetivo
 Mejorar el control nutricional mediante un sistema web moderno e interactivo.
+## 🖥️ Captura del sistema
+
+![Dashboard](images/dashboard.png)
+
+## 🗺️ Mapa interactivo
+
+![Mapa](images/mapa.png)
 
 ## 👨‍💻 Autor
 Jermain Jarol Arrieta Ramirez
